@@ -1,6 +1,3 @@
-```
-Open Source is Intrinsic to Bitcoin
-```
 # Tomahawk
 Tomahawk is a fully open source hardware Bitcoin ASIC miner. It is based on the ideas of Bitaxe by Skot and the Open Source Miners United but a complete redesign with some different components. It includes a BM1366 ASIC which is also used in the Antminer S19XP.
 

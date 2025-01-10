@@ -59,11 +59,11 @@
         }
       ],
       "drc_exclusions": [
-        "silk_overlap|162980000|100450000|e6fce4e3-982c-4b8f-89bf-0e14427f8a0c|f2669cf6-94e1-4152-87c9-97adf3ce5f4e",
-        "silk_overlap|162980000|107900000|e6fce4e3-982c-4b8f-89bf-0e14427f8a0c|596b3a03-0856-4f38-941c-c1efa7c345f5",
-        "silk_overlap|162980000|107900000|e6fce4e3-982c-4b8f-89bf-0e14427f8a0c|c4eaee71-f8ca-4571-8afe-38e5aeca9a1a",
+        "clearance|144515000|89035000|c2d86e40-b25f-4fb8-ab2a-8c3a3e459198|7fb775ff-16be-4680-a023-7eadd41b4e11",
+        "clearance|146015000|89365000|5e2dbec2-987d-447e-bd19-aec9f18e4357|5d54d243-8128-47c6-9eb0-4de547b11354",
+        "clearance|146015000|89865000|fb232210-dbe9-4889-afef-254618783bf2|5e2dbec2-987d-447e-bd19-aec9f18e4357",
         "text_thickness|120350000|95800000|d678d3ba-5dba-4a2a-876c-0e5106a9ee69|00000000-0000-0000-0000-000000000000",
-        "text_thickness|149400000|71500000|4bf1142d-e628-4c74-a837-add88abb658a|00000000-0000-0000-0000-000000000000"
+        "text_thickness|146600000|71600000|4bf1142d-e628-4c74-a837-add88abb658a|00000000-0000-0000-0000-000000000000"
       ],
       "meta": {
         "version": 2
@@ -494,7 +494,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "bm1366module.step",
       "svg": "",
       "vrml": ""
     },
